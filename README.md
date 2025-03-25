@@ -34,6 +34,8 @@
 🔹 [🤖 Bot de discord](https://github.com/Kizo50/proyecto2) – Realice un bot de discord para hacer consultas sobre mi mod de minecraft.  
 🔹 [👨‍💻 Web E-commerce con Spring Boot ](https://github.com/Kizo50/proyecto3) – Web E-commerce con spring boot (en proceso).
 <br>
+🔹 [👨‍💻 Aplicación de gestión de inventario con java , docker y mysql  ](https://github.com/Kizo50/proyecto3) – APP de gestión de inventario (en proceso).
+<br>
 <br>
 🔹 Todos los proyectos están en privado si quieres más información sobre estos contáctame. 
 
