@@ -1,8 +1,5 @@
 <h2 align="center">👋 ¡Hola, soy Miguel!</h2>
 <!-- Banner -->
-<img src="https://source.unsplash.com/1600x400/?technology,code">
-
-
 
 <p align="left">
   🚀 Desarrollador apasionado por las nuevas tecnologías.  
