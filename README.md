@@ -35,6 +35,7 @@
 🔹 [🌐 Sistema de autenticación ](https://github.com/Kizo50/proyecto3) – Sistema de Autenticación JWT (en proceso).  
 🔹 [👨‍💻 Web E-commerce con Spring Boot ](https://github.com/Kizo50/proyecto3) – Web E-commerce con spring boot (en proceso).
 <br>
+<br>
 🔹 Todos los proyectos están en privado si quieres más información sobre estos contáctame. 
 
 
