@@ -39,11 +39,11 @@
 
 
 
-
+---
 ### 🎥 **Videos youtube ciberseguridad**
 🔹 ▶️ Como vulnerar contraseñas a un ordenador con w10. 
 <br>
-🔹 🧑‍💻 Te enseño a utilizar la herramienta nmap. 
+🔹 🧑‍💻 Te enseño a utilizar la herramienta Nmap. 
 <br>
 🔹 📁 Esconder virus en archivos pdf.  
 <br>
