@@ -34,16 +34,21 @@
 🔹 [🤖 Bot de discord](https://github.com/Kizo50/proyecto2) – Realice un bot de discord para hacer consultas sobre mi mod de minecraft.  
 🔹 [🌐 Sistema de autenticación ](https://github.com/Kizo50/proyecto3) – Sistema de Autenticación JWT (en proceso).  
 🔹 [👨‍💻 Web E-commerce con Spring Boot ](https://github.com/Kizo50/proyecto3) – Web E-commerce con spring boot (en proceso).
+<br>
 🔹 Todos los proyectos están en privado si quieres más información sobre estos contáctame. 
----
 
----
+
+
 
 ### 🎥 **Videos youtube ciberseguridad**
-🔹 [▶️ Como vulnerar contraseñas a un ordenador con w10](link:oculto). 
-🔹 [🧑‍💻 Te enseño a utilizar la herramienta nmap](link:oculto). 
-🔹 [📁 Esconder virus en archivos pdf](link:oculto).  
+🔹 ▶️ Como vulnerar contraseñas a un ordenador con w10. 
+<br>
+🔹 🧑‍💻 Te enseño a utilizar la herramienta nmap. 
+<br>
+🔹 📁 Esconder virus en archivos pdf.  
+<br>
 🔹 Todos los videos están en privado si quieres más información sobre estos contáctame. 
+
 ---
 
 ### 📈 **Estadísticas de GitHub**
