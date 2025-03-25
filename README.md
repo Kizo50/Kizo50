@@ -1,6 +1,6 @@
 <h2 align="center">👋 ¡Hola, soy Miguel!</h2>
 <!-- Banner -->
-<img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%">
+<img src="https://source.unsplash.com/1600x400/?technology,code">
 
 
 
