@@ -29,8 +29,8 @@
 ---
 
 ### 📂 **Proyectos Destacados**
-🔹 [⛏ Mod de minecraft java](https://github.com/Kizo50/proyecto1) – Desarrolle un mod de minecraft con nuevos items y mecánicas.  
-🔹 [🤖 Bot de discord con python](https://github.com/Kizo50/mediterranean_food_mod_minecraft) – Realice un bot de discord para hacer consultas sobre mi mod de minecraft.  
+🔹 [⛏ Mod de minecraft java](https://github.com/Kizo50/mediterranean_food_mod_minecraft) – Desarrolle un mod de minecraft con nuevos items y mecánicas.  
+🔹 [🤖 Bot de discord con python](https://github.com/Kizo50/bot_discord) – Realice un bot de discord para hacer consultas sobre mi mod de minecraft.  
 🔹 [👨‍💻 Web E-commerce con Spring Boot ](https://github.com/Kizo50/proyecto3) – Web E-commerce con spring boot (en proceso).
 <br>
 🔹 [👨‍💻 Aplicación de gestión de inventario con java , docker y mysql  ](https://github.com/Kizo50/proyecto3) – APP de gestión de inventario(En proceso).
