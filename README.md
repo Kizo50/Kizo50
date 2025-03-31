@@ -4,7 +4,7 @@
 <p align="left">
   🚀 Desarrollador apasionado por las nuevas tecnologías.  
   <br>
-  💻 Amante de Java ☕, Spring Boot y desarrollo backend.  
+  💻 Amante de Java ☕ y desarrollo backend.  
   <br>
   📚 Siempre aprendiendo algo nuevo.  
 </p>
@@ -22,7 +22,6 @@
 ### 🛠 **Tecnologías y Herramientas**
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </p>
@@ -31,10 +30,10 @@
 
 ### 📂 **Proyectos Destacados**
 🔹 [⛏ Mod de minecraft java](https://github.com/Kizo50/proyecto1) – Desarrolle un mod de minecraft con nuevos items y mecánicas.  
-🔹 [🤖 Bot de discord con python](https://github.com/Kizo50/proyecto2) – Realice un bot de discord para hacer consultas sobre mi mod de minecraft.  
+🔹 [🤖 Bot de discord con python](https://github.com/Kizo50/mediterranean_food_mod_minecraft) – Realice un bot de discord para hacer consultas sobre mi mod de minecraft.  
 🔹 [👨‍💻 Web E-commerce con Spring Boot ](https://github.com/Kizo50/proyecto3) – Web E-commerce con spring boot (en proceso).
 <br>
-🔹 [👨‍💻 Aplicación de gestión de inventario con java , docker y mysql  ](https://github.com/Kizo50/proyecto3) – APP de gestión de inventario.
+🔹 [👨‍💻 Aplicación de gestión de inventario con java , docker y mysql  ](https://github.com/Kizo50/proyecto3) – APP de gestión de inventario(En proceso).
 <br>
 <br>
 🔹 Todos los proyectos están en privado si quieres más información sobre estos contáctame. 
